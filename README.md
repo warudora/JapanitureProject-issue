@@ -66,7 +66,7 @@ MOD本体のソースコードはプライベート管理されていますが�
 
 ---
 
-### 制作・運営
+## 制作・運営
 - **開発者 / 管理者:** warudora,C'zaha Chell Tia,tyapatu
 
 - © 2026 warudora,C'zaha Chell Tia,tyapatu / Japanituremod. All rights reserved.
