@@ -1,5 +1,3 @@
-#Japanituremod - Hub & Issue / Block Request
-
 ようこそ！ここは Minecraft 用・現代日本家具＆家電 MOD **「Japanituremod」** の公式ホームページ兼、不具合報告（Issue）・追加ブロック＆アイテム申請窓口です。
 
 MOD本体のソースコードはプライベート管理されていますが、バグ報告や「こんな家具・家電・建材を追加してほしい！」というリクエスト、モデル提案はこちらの [Issues](../../issues) より受け付けています。
